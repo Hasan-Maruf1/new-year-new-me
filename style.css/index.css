@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header section */
+.header-banner {
+    background-image: url("../images/banner/banner3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.header-section {
+    text-align: right;
+
+    padding: 215px 200px 200px 750px;
+    max-width: 500px;
+    align-items: center;
+
+}
+
+.title-header {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 20px;
+
+}
+
+.desc-header {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    padding: 15px;
+    border-radius: 5px;
+    border: 0px;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* thought section */
+.person {
+    height: 550px;
+    width: 500px;
+}
+
+.thought-section {
+    padding: 0px 80px 100px 150px;
+
+
+}
+
+.past-thought {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    padding: 0px 30px;
+    max-width:fit-content;
+    background-color: aliceblue;
+}
+
+.thought-img {
+    padding: 0px 50px;
+}
+
+.thought-header {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.thought-desc {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
