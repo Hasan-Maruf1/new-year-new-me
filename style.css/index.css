@@ -86,3 +86,14 @@
     margin-top: 0px;
     margin-bottom: 30px;
 }
+.section-title{
+    text-align: center;
+    margin: 20px 30px;
+}
+.section-main{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 150px 100px 150px;
+    text-align: center;
+    
+}
